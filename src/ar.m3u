@@ -11,7 +11,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1,Television Publica
 http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1,El Nueve
 http://45.5.151.151:8000/play/a0ll/index.m3u8
