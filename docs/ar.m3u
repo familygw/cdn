@@ -6,16 +6,17 @@ http://181.13.173.86:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" http-user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1,Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",Telefe (720p)
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1,Television Publica
 http://181.209.114.13:8000/play/a056/index.m3u8
-#EXTINF:-1,El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1,El Nueve
 http://45.5.151.151:8000/play/a0ll/index.m3u8
-#EXTINF:-1,TN
-http://190.123.90.146:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN (1080p)
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
 #EXTINF:-1,A24
 http://190.123.90.146:8000/play/a002/index.m3u8
 #EXTINF:-1,C5N
