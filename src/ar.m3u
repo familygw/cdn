@@ -15,10 +15,7 @@ https://iptv0001.familygw.workers.dev/index.m3u8
 #EXTINF:-1,El Nueve
 http://45.5.151.151:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15
-#EXTVLCOPT:http-referrer=https://www.tn.com.ar/
-#EXTVLCOPT:http-origin=https://www.tn.com.ar
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://iptv0002.familygw.workers.dev/index.m3u8
 #EXTINF:-1,A24
 http://190.123.90.146:8000/play/a002/index.m3u8
 #EXTINF:-1,C5N
