@@ -22,7 +22,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.play
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="LN.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+
-http://138.121.114.91:8000/play/a05y/index.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Dxtv.png",DeporTV
 http://181.209.37.74:8001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsHD.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png",Fox Sports HD
