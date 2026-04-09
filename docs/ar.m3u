@@ -19,10 +19,10 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 http://181.209.37.74:8001/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar@SD",Cronica TV (1280p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar@SD",Canal 26 (1080p)
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1,LN+
-http://190.123.90.146:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="LN.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",LN+
+http://138.121.114.91:8000/play/a05y/index.m3u8
 #EXTINF:-1,DeporTV
 http://181.209.37.74:8001/play/a07f/index.m3u8
 #EXTINF:-1,Fox Sports 2 HD
@@ -33,27 +33,27 @@ http://181.209.37.74:8001/play/a06y/index.m3u8
 http://181.209.37.74:8001/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png",DSports
 http://pi3server.local/dsport/index.m3u8
-#EXTINF:-1,Tyc Sports
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/TyC_Sports_%281994%29.png",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN Premium HD
 http://181.209.37.74:8001/play/a086/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="ESPNHD.ar@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN HD
 http://181.209.37.74:8001/play/a099/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2HD.ar@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN 2 HD
 http://181.209.37.74:8001/play/a098/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3HD.ar@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN 3 HD
 http://181.209.37.74:8001/play/a09a/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4HD.ar@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN 4 HD
 http://181.209.37.74:8001/play/a084/index.m3u8
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1 tvg-id="TNTSportsHD.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png",TNT Sports HD
 http://181.209.37.74:8001/play/a06z/index.m3u8
-#EXTINF:-1,TNT Sports 2
+#EXTINF:-1 tvg-id="TNTSports2HD.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png",TNT Sports 2
 http://190.151.80.244:9990/play/a0kg/index.m3u8
-#EXTINF:-1,TNT Sports 3
+#EXTINF:-1 tvg-id="TNTSports3HD.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png",TNT Sports 3
 http://190.151.80.244:9990/play/a0jq/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1 tvg-id="History2.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",History 2
 http://181.209.37.74:8001/play/a06n/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 tvg-id="HistoryChannel.ar@SD" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1-939x1024.png",History Channel
 http://181.209.37.74:8001/play/a090/index.m3u8
-#EXTINF:-1,The History Channel HD
+#EXTINF:-1 tvg-id="TheHistoryChannel.ar@SD" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1-939x1024.png",The History Channel HD
 http://181.209.37.74:8001/play/a09g/index.m3u8
